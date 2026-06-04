@@ -9,10 +9,10 @@ public class DBConnection {
             "jdbc:mysql://localhost:3306/student_dashboard";
 
     private static final String USER =
-            "root";
+            "studentuser";
 
     private static final String PASSWORD =
-            "root";
+            "student123";
 
     public static Connection getConnection() {
 
