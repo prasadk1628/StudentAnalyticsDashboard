@@ -6,6 +6,7 @@
 <meta charset="UTF-8">
 <title>Analytics</title>
 <link rel="stylesheet" href="../css/style.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 
 <body>
@@ -34,6 +35,8 @@
     </div>
 
 </div>
+
+<script src="../js/charts.js"></script>
 
 </body>
 </html>

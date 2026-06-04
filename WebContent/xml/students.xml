@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+
+    <student>
+        <id>201</id>
+        <name>Ramesh</name>
+        <department>CSE</department>
+        <marks>82</marks>
+    </student>
+
+    <student>
+        <id>202</id>
+        <name>Suresh</name>
+        <department>ECE</department>
+        <marks>75</marks>
+    </student>
+
+    <student>
+        <id>203</id>
+        <name>Anitha</name>
+        <department>EEE</department>
+        <marks>91</marks>
+    </student>
+
+    <student>
+        <id>204</id>
+        <name>Karthik</name>
+        <department>MECH</department>
+        <marks>68</marks>
+    </student>
+
+</students>
